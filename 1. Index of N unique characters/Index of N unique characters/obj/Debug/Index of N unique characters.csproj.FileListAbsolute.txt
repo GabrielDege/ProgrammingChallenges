@@ -1,0 +1,7 @@
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\bin\Debug\Index of N unique characters.exe.config
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\bin\Debug\Index of N unique characters.exe
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\bin\Debug\Index of N unique characters.pdb
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\obj\Debug\Index of N unique characters.csproj.AssemblyReference.cache
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\obj\Debug\Index of N unique characters.csproj.CoreCompileInputs.cache
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\obj\Debug\Index of N unique characters.exe
+C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\1. Index of N unique characters\Index of N unique characters\obj\Debug\Index of N unique characters.pdb
