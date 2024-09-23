@@ -1,7 +1,0 @@
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\bin\Debug\Interlocking Binary Pairs.exe.config
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\bin\Debug\Interlocking Binary Pairs.exe
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\bin\Debug\Interlocking Binary Pairs.pdb
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\obj\Debug\Interlocking Binary Pairs.csproj.AssemblyReference.cache
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\obj\Debug\Interlocking Binary Pairs.csproj.CoreCompileInputs.cache
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\obj\Debug\Interlocking Binary Pairs.exe
-C:\Users\Scruffysnake\OneDrive\PSC course work\Programming Enrichment\challenges\2. Interlocking Binary Pairs\Interlocking Binary Pairs\obj\Debug\Interlocking Binary Pairs.pdb
